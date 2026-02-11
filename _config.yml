@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "余兆舒"
+title                    : "Zhaoshu Yu"
 description              : "Tongji University"
 repository               : "yuzhaoshu/yuzhaoshu.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "余兆舒"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Zhaoshu Yu"
+  avatar           : "images/profile.png"
   bio              : 
   location         : "Shanghai, China"
   employer         : 
