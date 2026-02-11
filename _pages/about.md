@@ -42,16 +42,16 @@ My research interests focus on Vision-Language-Action Models, Embodied AI and Mu
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023-12* Outstanding Students of Tongji University for the 2022-2023 Academic Year
+- *2023-12* National Scholarship for Undergraduates for the 2022–2023 Academic Year
+- *2024-01* Bronze Medal in the International Physics Olympiad
+- *2024-11* 2024 Ningquan Research Scholarship
+- *2024-12* Outstanding Students of Tongji University for the 2023-2024 Academic Year
+- *2024-12* National Scholarship for Undergraduates for the 2023–2024 Academic Year
+- *2024-12* Tongji University Zhui Yuan Scholarship for the 2023–2024 Academic Year
+- *2024-12* Tongji University Undergraduate Social Activities Scholarship for the 2023-2024 Academic Year
+- *2025-12* National Scholarship for Undergraduates for the 2024–2025 Academic Year
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2026.09 - unknown*, Tongji University, Shanghai, China, Ph.D. student of Computer Science and Technology.
+- *2022.09 - 2026.06 (expected)*, Tongji University, Shanghai, China, Bachelor of Applied Physics.
