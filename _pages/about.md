@@ -22,7 +22,7 @@ Hi! My name is Yu Zhaoshu. I am currently a fourth-year undergraduate student ma
 My research interests focus on Vision-Language-Action Models, Embodied AI and Multimodel Learning.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 We release [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/abs/2510.24795), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models, providing an in-depth coverage of the entire model–training- pipeline.
+- *2025.10*: &nbsp;🎉🎉 We release [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/abs/2510.24795), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models, providing an in-depth coverage of the entire model–training-data pipeline.
 
 # 📝 Publications 
 
@@ -35,6 +35,8 @@ My research interests focus on Vision-Language-Action Models, Embodied AI and Mu
 
 [**Project**](https://evla-survey.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**GitHub**](https://github.com/YuZhaoshu/Efficient-VLAs-Survey) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+- The list of papers will be updated in real time on the GitHub repository.
 
 </div>
 </div>
