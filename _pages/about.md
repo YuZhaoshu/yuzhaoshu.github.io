@@ -32,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [A Survey on Efficient Vision-Language-Action Models. arXiv 2025.](https://arxiv.org/abs/2510.24795)
 
-**Zhaoshu Yu**, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen
+**Zhaoshu Yu**, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen
 
 [**Project**](**https://evla-survey.github.io/**) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
