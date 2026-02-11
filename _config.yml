@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "余兆舒"
-description              : "同济大学 | 视觉语言动作模型 | 具身智能 | 多模态学习"
+description              : "Tongji University"
 repository               : "yuzhaoshu/yuzhaoshu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "余兆舒"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "同济大学"
+  bio              : 
   location         : "Shanghai, China"
   employer         : "Tongji University"
   pubmed           :
