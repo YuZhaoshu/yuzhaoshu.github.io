@@ -23,11 +23,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 : We release [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/abs/2510.24795), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models, providing an in-depth coverage of the entire model–training- pipeline.
+- *2025.10*: &nbsp;🎉🎉 We release [A Survey on Efficient Vision-Language-Action Models](https://arxiv.org/abs/2510.24795), the first comprehensive survey specifically dedicated to efficient Vision-Language-Action (VLA) models, providing an in-depth coverage of the entire model–training- pipeline.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/evla_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Survey on Efficient Vision-Language-Action Models. arXiv 2025.](https://arxiv.org/abs/2510.24795)
