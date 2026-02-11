@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/evla_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Survey on Efficient Vision-Language-Action Models. arXiv 2025.](https://arxiv.org/abs/2510.24795)
+[A Survey on Efficient Vision-Language-Action Models.](https://arxiv.org/abs/2510.24795)
 
 **Zhaoshu Yu**, Bo Wang, Pengpeng Zeng, Haonan Zhang, Ji Zhang, Zheng Wang, Lianli Gao, Jingkuan Song, Nicu Sebe, and Heng Tao Shen
 
