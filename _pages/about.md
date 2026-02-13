@@ -44,7 +44,7 @@ My research interests focus on Vision-Language-Action Models, Embodied AI and Mu
 # 🎖 Honors and Scholarships
 - *2023-12* Outstanding Students of Tongji University for the 2022-2023 Academic Year
 - *2023-12* National Scholarship for Undergraduates for the 2022–2023 Academic Year
-- *2024-01* Bronze Medal in the International Physics Olympiad
+- *2024-01* Bronze Medal in the 2023 International University Physics Competition
 - *2024-11* 2024 Ningquan Research Scholarship
 - *2024-12* Outstanding Students of Tongji University for the 2023-2024 Academic Year
 - *2024-12* National Scholarship for Undergraduates for the 2023–2024 Academic Year
