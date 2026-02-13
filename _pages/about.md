@@ -55,3 +55,7 @@ My research interests focus on Vision-Language-Action Models, Embodied AI and Mu
 # 📖 Educations
 - *2026.09 - unknown*, Tongji University, Shanghai, China, Ph.D. student of Computer Science and Technology.
 - *2022.09 - 2026.06 (expected)*, Tongji University, Shanghai, China, Bachelor of Applied Physics.
+
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?zhaoshuyu"
+border="0" alt="Free Web Counters"></a> visitors since Apr. 2025
